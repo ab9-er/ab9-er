@@ -1,10 +1,12 @@
 ### Hello, World! 👋
 
-Visit my GitHub page <a href="https://ab9-er.github.io/">here</a>! 
+Visit my GitHub page <a href="https://ab9-er.github.io/">here</a>! 👨‍🚀
 
-I also have an <a href="https://about.me/abhinavchadha">about.me</a> page.
+I also have an <a href="https://about.me/abhinavchadha">about.me</a> page. 🦹‍♂️
 
-Contact me for pro-bono mentoring, coaching and/or volunteering 🦸🏼‍♂️.
+Contact me for pro-bono mentoring, coaching and/or volunteering. 🦸🏼‍♂️
+
+Find my photography work <a href="https://unsplash.com/@a_bhi_9">here</a> and <a href="https://500px.com/abhinavchadha">here</a>. 📸
 
 <!--
 **ab9-er/ab9-er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
